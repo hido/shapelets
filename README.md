@@ -1,0 +1,4 @@
+shapelets
+=========
+
+Learning shapelets
